@@ -60,19 +60,19 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" title="JavaScript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" title="TypeScript" />](https://www.typescriptlang.org/)
 
-### Frontend
+### Frontend Developments
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="60" alt="HTML" title="HTML" />](https://www.w3.org/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="60" alt="CSS" title="CSS" />](https://www.w3schools.com/css/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="60" alt="SASS/SCSS" title="SASS/SCSS" />](https://sass-lang.com/)
 
-### Backend Framework
+### Backend Frameworks
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="60" alt=".NET Framework" title=".NET Framework" />](https://dotnet.microsoft.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="60" alt="Node JS" title="Node JS" />](https://nodejs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="60" alt="Express JS" title="Express JS" />](https://expressjs.com/)
 
-### Database
+### Databases
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL" title="MySQL" />](https://www.mysql.com/)
 [<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="60" alt="MSSQL" title="MSSQL" />](https://www.microsoft.com/en-us/sql-server/)
@@ -102,7 +102,7 @@
 [<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" height="60" alt="Mocha JS" title="Mocha JS" />](https://mochajs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" height="60" alt="Webpack" title="Webpack" />](https://webpack.js.org/)
 
-# Connect
+# Connect me at
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-roy94/)
 [![LinkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dusk196/)
