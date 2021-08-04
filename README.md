@@ -14,93 +14,122 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=dusk196&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/)
 
-# Favourite IDEs:
-
-[![LinkedIn](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-[![LinkedIn](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![LinkedIn](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org/)
-
-...and might not be my favourite but still I sometimes use:
-
-[![LinkedIn](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
-[![LinkedIn](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
-[![LinkedIn](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)](https://atom.io/)
-
 # At a glance:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dusk196&theme=vue-dark)](https://git.io/streak-stats)
-
-[![Github Trophy](https://github-profile-trophy.vercel.app/?username=dusk196&theme=gruvbox&margin-w=15&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 *...and more on it's way!* 😎
 
 # Languages and Tools:
 
-[![Most Used langulage](https://github-readme-stats.vercel.app/api/top-langs/?username=dusk196&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/)
-
 ### Fronend frameworks:
 
-[<img src="https://angular.io/assets/images/logos/angular/angular.svg" height="60" alt="Angular" title="Angular" />](https://angular.io)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" height="60" alt="AngularJS" title="AngularJS" />](https://angularjs.org/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Angular JS](https://img.shields.io/badge/Angular_JS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)](https://angularjs.org/)
 
-### JS Compilers
+### JS Compilers & Package Managers
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" height="60" alt="Gulp JS" title="Gulp JS" />](https://gulpjs.com/)
-[<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" height="60" alt="Babel JS" title="Babel JS" />](https://babeljs.io/)
+[![Gulp JS](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com/)
+[![Babel JS](https://img.shields.io/badge/Babel-F7DF1E?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 
 ### CSS Frameworks
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="60" alt="Bootstrap" title="Bootstrap" />](https://getbootstrap.com/)
-[<img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" height="60" alt="Bulma" title="Bulma" />](https://bulma.io/)
-[<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" height="60" alt="Materialize CSS" title="Materialize CSS" />](https://materializecss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)](https://bulma.io/)
+[![Materialize CSS](https://img.shields.io/badge/Materialize_CSS-ee6e73?style=for-the-badge&logo=material-ui&logoColor=white)](https://materializecss.com/)
 
 ### Programming Languages
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="60" alt="C#" title="C#" />](https://www.w3schools.com/cs/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" title="JavaScript" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" title="TypeScript" />](https://www.typescriptlang.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ### Frontend Developments
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="60" alt="HTML" title="HTML" />](https://www.w3.org/html/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="60" alt="CSS" title="CSS" />](https://www.w3schools.com/css/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="60" alt="SASS/SCSS" title="SASS/SCSS" />](https://sass-lang.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
+[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
 ### Backend Frameworks
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="60" alt=".NET Framework" title=".NET Framework" />](https://dotnet.microsoft.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="60" alt="Node JS" title="Node JS" />](https://nodejs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="60" alt="Express JS" title="Express JS" />](https://expressjs.com/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 
 ### Databases
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL" title="MySQL" />](https://www.mysql.com/)
-[<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="60" alt="MSSQL" title="MSSQL" />](https://www.microsoft.com/en-us/sql-server/)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MS-SQL](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 
 ### Versioning Tools
 
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="60" alt="Git" title="Git" />](https://git-scm.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ### API Tools
 
-[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60" alt="Postman" title="Postman" />](https://postman.com/)
+[![Git](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://postman.com/)
 
-### Not an expert but still can "Google" my way around 😜
+### OS
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="60" alt="Linux" title="Linux" />](https://www.linux.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="AWS Console" title="AWS Console" />](https://aws.amazon.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" title="C++" />](https://www.w3schools.com/cpp/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60" alt="Java" title="Java" />](https://www.java.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60" alt="Python" title="Python" />](https://www.python.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="60" alt="React" title="React" />](https://reactjs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" height="60" alt="Vue JS" title="Vue JS" />](https://vuejs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="60" alt="PHP" title="PHP" />](https://www.php.net/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" height="60" alt="Laravel" title="Laravel" />](https://laravel.com/)
-[<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="60" alt="Jenkins" title="Jenkins" />](https://www.jenkins.io/)
-[<img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" height="60" alt="Jasmine" title="Jasmine" />](https://jasmine.github.io/)
-[<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" height="60" alt="Karma" title="Karma" />](https://karma-runner.github.io/latest/index.html/)
-[<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" height="60" alt="Mocha JS" title="Mocha JS" />](https://mochajs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" height="60" alt="Webpack" title="Webpack" />](https://webpack.js.org/)
+[![Arch Linux](https://img.shields.io/badge/PC-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![Windows 10](https://img.shields.io/badge/PC_&_Laptop-Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows/)
+[![Arch Linux](https://img.shields.io/badge/Mobile-lineage_os-167C80?style=for-the-badge&logo=lineageos&logoColor=white)](https://archlinux.org/)
+
+### Learning now 
+
+[![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/)
+[![Vue JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+[![Mongo DB](https://img.shields.io/badge/Mongo_DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org/)
+
+### Not an expert but still can “Google” my way around 😜
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.w3schools.in/c-tutorial/intro/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white)](https://jasmine.github.io/)
+[![Mocha JS](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)](https://mochajs.org/)
+[![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)](https://webpack.js.org/)
+
+### Coverage summary at Github
+
+[![Most Used langulage](https://github-readme-stats.vercel.app/api/top-langs/?username=dusk196&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/)
+
+# Favourite IDEs:
+
+[![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)](https://notepad-plus-plus.org/)
+
+*...and might not be my favourite but I seldom use:*
+
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
+[![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
+[![WebStrom](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
+[![Aatom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)](https://atom.io/)
+
+# Github Trophies
+
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=dusk196&theme=gruvbox&margin-w=15&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+
+# Personal Details
+
+#### Personal Rig: 
+[![AMD Ryzen 5 3600X](https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/products/cpu/amd-ryzen-5-3600x/)
+[![NVIDIA RTX 2070 Super](https://img.shields.io/badge/NVIDIA-RTX_2070_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-in/geforce/graphics-cards/rtx-2070-super/)
+
+#### Laptop
+[![HP Pavilion 15 p204tx Notebook](https://img.shields.io/badge/Windows-HP_Pavilion_15--p204tx_Notebook-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://support.hp.com/in-en/product/hp-pavilion-15-notebook-pc-series/7486459/model/7584247/)
+
+#### Most time wasted on:
+
+[![CS:GO](https://img.shields.io/badge/3000+_Hours-Counter_Strike:_Global_Offensive-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
 
 # Connect me at
 
