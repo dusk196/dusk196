@@ -12,11 +12,11 @@
 - 💞️ Looking to collaborate on developements with Angular
 - 📫 Reach me at sayantan.roy94@gmail.com
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=dusk196&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=dusk196&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/)
 
 # At a glance:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dusk196&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dusk196&theme=onedark)](https://git.io/streak-stats)
 
 *...and more on it's way!* 😎
 
@@ -57,6 +57,7 @@
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Sequelize](https://img.shields.io/badge/Sequelize-000000?style=for-the-badge&logo=Sequelize&logoColor=white)](https://sequelize.org/)
 
 ### Databases
 
@@ -83,6 +84,7 @@
 [![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/)
 [![Vue JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
 [![Mongo DB](https://img.shields.io/badge/Mongo_DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org/)
 
 ### Not an expert but still can “Google” my way around 😜
@@ -99,7 +101,7 @@
 
 ### Coverage summary at Github
 
-[![Most Used langulage](https://github-readme-stats.vercel.app/api/top-langs/?username=dusk196&show_icons=true&theme=vue-dark)](https://github-readme-stats.vercel.app/)
+[![Most Used langulage](https://github-readme-stats.vercel.app/api/top-langs/?username=dusk196&show_icons=true&theme=onedark&langs_count=20&hide=java)](https://github-readme-stats.vercel.app/)
 
 # Favourite IDEs:
 
@@ -123,6 +125,7 @@
 #### Personal Rig: 
 [![AMD Ryzen 5 3600X](https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/products/cpu/amd-ryzen-5-3600x/)
 [![NVIDIA RTX 2070 Super](https://img.shields.io/badge/NVIDIA-RTX_2070_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-in/geforce/graphics-cards/rtx-2070-super/)
+[![ASUS PRIME X570 P-CSM](https://img.shields.io/badge/Asus-PRIME_X570_P--CSM-000000?style=for-the-badge&logo=asus&logoColor=white)](https://www.asus.com/Motherboards-Components/Motherboards/All-series/PRIME-X570-P-CSM/)
 
 #### Laptop
 [![HP Pavilion 15 p204tx Notebook](https://img.shields.io/badge/Windows-HP_Pavilion_15--p204tx_Notebook-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://support.hp.com/in-en/product/hp-pavilion-15-notebook-pc-series/7486459/model/7584247/)
@@ -130,6 +133,14 @@
 #### Most time wasted on:
 
 [![CS:GO](https://img.shields.io/badge/3000+_Hours-Counter_Strike:_Global_Offensive-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
+
+# Favorite projects
+
+[![Ultimate Frontend Seed](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=ultimate-frontend-seed&theme=onedark)](https://github.com/dusk196/ultimate-frontend-seed/)
+[![How Many Days](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=how-many-days&theme=onedark)](https://github.com/dusk196/how-many-days/)
+[![Snake](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=snake&theme=onedark)](https://github.com/dusk196/snake/)
+[![node-auth-jwt](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=node-auth-jwt&theme=onedark)](https://github.com/dusk196/node-auth-jwt/)
+[![Storage Space Tracker](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=storage-space-tracker&theme=onedark)](https://github.com/dusk196/storage-space-tracker/)
 
 # Connect me at
 
