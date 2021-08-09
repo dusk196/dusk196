@@ -120,6 +120,9 @@
 
 [![Github Trophy](https://github-profile-trophy.vercel.app/?username=dusk196&theme=gruvbox&margin-w=15&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
+# Here is a random joke that'll make you laugh! 😂 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 # Personal Details
 
 #### Personal Rig: 
