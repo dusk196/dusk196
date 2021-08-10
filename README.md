@@ -12,6 +12,14 @@
 - 💞️ Looking to collaborate on developements with Angular
 - 📫 Reach me at sayantan.roy94@gmail.com
 
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-roy94/)
+[![LinkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dusk196/)
+[![LinkedIn](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsroy94)
+
+---
+
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=dusk196&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/)
 
 # At a glance:
@@ -144,9 +152,3 @@
 [![Snake](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=snake&theme=onedark)](https://github.com/dusk196/snake/)
 [![node-auth-jwt](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=node-auth-jwt&theme=onedark)](https://github.com/dusk196/node-auth-jwt/)
 [![Storage Space Tracker](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=storage-space-tracker&theme=onedark)](https://github.com/dusk196/storage-space-tracker/)
-
-# Connect me at
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-roy94/)
-[![LinkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dusk196/)
-[![LinkedIn](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsroy94)
