@@ -2,10 +2,10 @@
 
 <div align="center">
 
-[![Github Trophy](https://github-profile-trophy.vercel.app/?username=dusk196&theme=gruvbox&margin-w=15&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=dusk196&margin-w=15&margin-h=15&no-frame=true&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Hi, I’m Sayantan Roy! 😄
-## ...a passionate full stack developer! 😎
+### Hi, I’m Sayantan Roy! 😄
+#### ...a passionate full stack developer! 😎
 
 ![Github Stats](https://komarev.com/ghpvc/?username=dusk196&label=Profile%20views&color=blue&style=flat-square)
 
@@ -39,8 +39,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-roy94/)
 
 </div>
-
----
 
 <br />
 
