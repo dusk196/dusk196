@@ -1,5 +1,7 @@
 ![Cover image from Pexels](https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=375&w=630)
 
+[![Github Trophy](https://github-profile-trophy.vercel.app/?username=dusk196&theme=gruvbox&margin-w=15&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+
 # Hi, I’m Sayantan Roy!
 
 ![Github Stats](https://komarev.com/ghpvc/?username=dusk196&label=Profile%20views&color=blue&style=flat-square)
@@ -12,21 +14,10 @@
 - 💞️ Looking to collaborate on developements with Angular
 - 📫 Reach me at sayantan.roy94@gmail.com
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-roy94/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-roy94/)
-[![LinkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dusk196/)
-[![LinkedIn](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsroy94)
-
----
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=dusk196&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/)
-
-# At a glance:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dusk196&theme=onedark)](https://git.io/streak-stats)
-
-*...and more on it's way!* 😎
 
 # Languages and Tools:
 
@@ -107,9 +98,14 @@
 [![Mocha JS](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)](https://mochajs.org/)
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)](https://webpack.js.org/)
 
-### Coverage summary at Github
 
-[![Most Used langulage](https://github-readme-stats.vercel.app/api/top-langs/?username=dusk196&show_icons=true&theme=onedark&langs_count=20&hide=java)](https://github-readme-stats.vercel.app/)
+# At a glance:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dusk196&theme=onedark)](https://git.io/streak-stats)
+
+*...and more on it's way!* 😎
+
+[![Most Used langulage](https://metrics.lecoq.io/dusk196?template=terminal)](https://metrics.lecoq.io/)
 
 # Favourite IDEs:
 
@@ -124,14 +120,15 @@
 [![WebStrom](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
 [![Aatom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)](https://atom.io/)
 
-# Github Trophies
-
-[![Github Trophy](https://github-profile-trophy.vercel.app/?username=dusk196&theme=gruvbox&margin-w=15&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+[![Most Used langulage](https://github-readme-stats.vercel.app/api/top-langs/?username=dusk196&show_icons=true&theme=onedark&langs_count=20&hide=java)](https://github-readme-stats.vercel.app/)
 
 # Here is a random joke that'll make you laugh! 😂 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 # Personal Details
+
+[![LinkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dusk196/)
+[![LinkedIn](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsroy94)
 
 #### Personal Rig: 
 [![AMD Ryzen 5 3600X](https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/products/cpu/amd-ryzen-5-3600x/)
@@ -143,7 +140,7 @@
 
 #### Most time wasted on:
 
-[![CS:GO](https://img.shields.io/badge/3000+_Hours-Counter_Strike:_Global_Offensive-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
+[![CS:GO](https://img.shields.io/badge/Counter_Strike:_Global_Offensive-3000+_Hours-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
 
 # Favorite projects
 
