@@ -1,25 +1,50 @@
 ![Cover image from Pexels](https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=375&w=630)
 
+<div align="center">
+
 [![Github Trophy](https://github-profile-trophy.vercel.app/?username=dusk196&theme=gruvbox&margin-w=15&no-bg=false&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Hi, I’m Sayantan Roy!
+# Hi, I’m Sayantan Roy! 😄
+## ...a passionate full stack developer! 😎
 
 ![Github Stats](https://komarev.com/ghpvc/?username=dusk196&label=Profile%20views&color=blue&style=flat-square)
 
-### A passionate full stack developer...
+</div>
 
-- 👋 A software engineer with keen knack for mostly R&D releated works
-- 👀 Always interested in full stack developement with new web technologies
-- 🌱 Currently learning React & NodeJS
-- 💞️ Looking to collaborate on developements with Angular
-- 📫 Reach me at sayantan.roy94@gmail.com
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-roy94/)
+---
+
+👋 A software engineer with keen knack for mostly R&D releated works
+
+👀 Always interested in full stack developement with new web technologies
+
+🌱 Currently learning React & NodeJS
+
+💞️ Looking to collaborate on developements with Angular
+
+📫 Reach me at sayantan.roy94@gmail.com
+
+---
+
+<br />
+
+<div align="center">
 
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=dusk196&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/)
 
-# Languages and Tools:
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayantan-roy94/)
+
+</div>
+
+---
+
+<br />
+
+# 💥 Languages and Tools:
 
 ### Fronend frameworks:
 
@@ -77,7 +102,7 @@
 [![Windows 10](https://img.shields.io/badge/PC_&_Laptop-Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows/)
 [![Arch Linux](https://img.shields.io/badge/Mobile-lineage_os-167C80?style=for-the-badge&logo=lineageos&logoColor=white)](https://archlinux.org/)
 
-### Learning now 
+### Currently Learning 
 
 [![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/)
@@ -99,7 +124,7 @@
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)](https://webpack.js.org/)
 
 
-# At a glance:
+# 💥 At a glance:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dusk196&theme=onedark)](https://git.io/streak-stats)
 
@@ -107,7 +132,7 @@
 
 [![Most Used langulage](https://metrics.lecoq.io/dusk196?template=terminal)](https://metrics.lecoq.io/)
 
-# Favourite IDEs:
+# 💥 Favourite IDEs:
 
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
@@ -125,7 +150,7 @@
 # Here is a random joke that'll make you laugh! 😂 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-# Personal Details
+# 💥 Personal Details
 
 [![LinkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dusk196/)
 [![LinkedIn](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsroy94)
@@ -142,7 +167,7 @@
 
 [![CS:GO](https://img.shields.io/badge/Counter_Strike:_Global_Offensive-3000+_Hours-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
 
-# Favorite projects
+# 💥 Favorite projects
 
 [![Ultimate Frontend Seed](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=ultimate-frontend-seed&theme=onedark)](https://github.com/dusk196/ultimate-frontend-seed/)
 [![How Many Days](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=how-many-days&theme=onedark)](https://github.com/dusk196/how-many-days/)
