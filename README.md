@@ -4,8 +4,8 @@
 
 [![Github Trophy](https://github-profile-trophy.vercel.app/?username=dusk196&margin-w=15&margin-h=15&no-frame=true&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Hi, I’m Sayantan Roy! 😄
-#### ...a passionate full stack developer! 😎
+<h1> Hi, I’m Sayantan Roy! 😄 </h1>
+<h2> ...a passionate full stack developer! 😎 </h2>
 
 ![Github Stats](https://komarev.com/ghpvc/?username=dusk196&label=Profile%20views&color=blue&style=flat-square)
 
@@ -42,65 +42,65 @@
 
 <br />
 
-# 💥 Languages and Tools:
+# 💥 Languages and Tools 💥
 
-### Fronend frameworks:
+### ✨ Fronend frameworks ✨
 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Angular JS](https://img.shields.io/badge/Angular_JS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)](https://angularjs.org/)
 
-### JS Compilers & Package Managers
+### ✨ JS Compilers & Package Managers ✨
 
 [![Gulp JS](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com/)
 [![Babel JS](https://img.shields.io/badge/Babel-F7DF1E?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 
-### CSS Frameworks
+### ✨ CSS Frameworks ✨
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)](https://bulma.io/)
 [![Materialize CSS](https://img.shields.io/badge/Materialize_CSS-ee6e73?style=for-the-badge&logo=material-ui&logoColor=white)](https://materializecss.com/)
 
-### Programming Languages
+### ✨ Programming Languages ✨
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-### Frontend Developments
+### ✨ Frontend Developments ✨
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
-### Backend Frameworks
+### ✨ Backend Frameworks ✨
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Sequelize](https://img.shields.io/badge/Sequelize-000000?style=for-the-badge&logo=Sequelize&logoColor=white)](https://sequelize.org/)
 
-### Databases
+### ✨ Databases ✨
 
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MS-SQL](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 
-### Versioning Tools
+### ✨ Versioning Tools ✨
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-### API Tools
+### ✨ API Tools ✨
 
 [![Git](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://postman.com/)
 
-### OS
+### ✨ OS ✨
 
 [![Arch Linux](https://img.shields.io/badge/PC-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Windows 10](https://img.shields.io/badge/PC_&_Laptop-Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows/)
 [![Arch Linux](https://img.shields.io/badge/Mobile-lineage_os-167C80?style=for-the-badge&logo=lineageos&logoColor=white)](https://archlinux.org/)
 
-### Currently Learning 
+### ✨ Currently Learning ✨
 
 [![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/)
@@ -109,7 +109,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org/)
 
-### Not an expert but still can “Google” my way around 😜
+### ✨ Not an expert but still can “Google” my way around 😜
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
@@ -122,7 +122,7 @@
 [![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black)](https://webpack.js.org/)
 
 
-# 💥 At a glance:
+# 💥 At a glance 💥
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dusk196&theme=onedark)](https://git.io/streak-stats)
 
@@ -130,7 +130,7 @@
 
 [![Most Used langulage](https://metrics.lecoq.io/dusk196?template=terminal)](https://metrics.lecoq.io/)
 
-# 💥 Favourite IDEs:
+# 💥 Favourite IDEs 💥
 
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
@@ -145,10 +145,10 @@
 
 [![Most Used langulage](https://github-readme-stats.vercel.app/api/top-langs/?username=dusk196&show_icons=true&theme=onedark&langs_count=20&hide=java)](https://github-readme-stats.vercel.app/)
 
-# Here is a random joke that'll make you laugh! 😂 
+# 😂 Here is a random developer joke 😂
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-# 💥 Personal Details
+# 💥 Personal Details 💥
 
 [![LinkedIn](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dusk196/)
 [![LinkedIn](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsroy94)
@@ -165,7 +165,7 @@
 
 [![CS:GO](https://img.shields.io/badge/Counter_Strike:_Global_Offensive-3000+_Hours-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
 
-# 💥 Favorite projects
+# 💥 Favorite projects 💥
 
 [![Ultimate Frontend Seed](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=ultimate-frontend-seed&theme=onedark)](https://github.com/dusk196/ultimate-frontend-seed/)
 [![How Many Days](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=how-many-days&theme=onedark)](https://github.com/dusk196/how-many-days/)
