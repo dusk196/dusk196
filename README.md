@@ -27,7 +27,10 @@
 <div align="center">
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=dusk196&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=dusk196&show_icons=true&theme=merko)](https://github-readme-stats.vercel.app/)
+
+
+[![Most Used langulage](https://github-readme-stats.vercel.app/api/top-langs/?username=dusk196&show_icons=true&theme=merko&layout=compact&langs_count=20&hide=java)](https://github-readme-stats.vercel.app/)
 
 <br />
 
@@ -39,63 +42,63 @@
 
 # 💥 Languages and Tools 💥
 
-### Fronend frameworks
+### Fronend frameworks ✨
 
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Angular JS](https://img.shields.io/badge/Angular_JS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)](https://angularjs.org/)
 
-### JS Compilers & Package Managers
+### JS Compilers & Package Managers ⚡️
 
 [![Gulp JS](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)](https://gulpjs.com/)
 [![Babel JS](https://img.shields.io/badge/Babel-F7DF1E?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
 [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![YARN](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 
-### CSS Frameworks
+### CSS Frameworks 💫
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)](https://bulma.io/)
 [![Materialize CSS](https://img.shields.io/badge/Materialize_CSS-ee6e73?style=for-the-badge&logo=material-ui&logoColor=white)](https://materializecss.com/)
 
-### Programming Languages
+### Programming Languages 🔬
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-### Frontend Developments
+### Frontend Developments 💻
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
-### Backend Frameworks
+### Backend Frameworks 🔭
 
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Sequelize](https://img.shields.io/badge/Sequelize-000000?style=for-the-badge&logo=Sequelize&logoColor=white)](https://sequelize.org/)
 
-### Databases
+### Databases 📇
 
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MS-SQL](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/)
 
-### Versioning Tools
+### Versioning Tools 💾
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-### API Tools
+### API Tools 📡
 
 [![Git](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://postman.com/)
 
-### OS
+### OS 🖥
 
 [![Arch Linux](https://img.shields.io/badge/PC-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Windows 10](https://img.shields.io/badge/PC_&_Laptop-Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows/)
 [![Arch Linux](https://img.shields.io/badge/Mobile-lineage_os-167C80?style=for-the-badge&logo=lineageos&logoColor=white)](https://archlinux.org/)
 
-### Currently Learning
+### Currently Learning 🔥
 
 [![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://material-ui.com/)
@@ -120,7 +123,7 @@
 
 # 💥 At a glance 💥
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dusk196&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dusk196&theme=merko)](https://git.io/streak-stats)
 
 *...and more on it's way!* 😎
 
@@ -139,7 +142,7 @@
 [![WebStrom](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/webstorm/)
 [![Aatom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)](https://atom.io/)
 
-[![Most Used langulage](https://github-readme-stats.vercel.app/api/top-langs/?username=dusk196&show_icons=true&theme=onedark&langs_count=20&hide=java)](https://github-readme-stats.vercel.app/)
+<br />
 
 # 😂 Here is a random developer joke 😂
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -154,17 +157,19 @@
 [![NVIDIA RTX 2070 Super](https://img.shields.io/badge/NVIDIA-RTX_2070_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-in/geforce/graphics-cards/rtx-2070-super/)
 [![ASUS PRIME X570 P-CSM](https://img.shields.io/badge/Asus-PRIME_X570_P--CSM-000000?style=for-the-badge&logo=asus&logoColor=white)](https://www.asus.com/Motherboards-Components/Motherboards/All-series/PRIME-X570-P-CSM/)
 
-#### Laptop
+#### Laptop:
 [![HP Pavilion 15 p204tx Notebook](https://img.shields.io/badge/Windows-HP_Pavilion_15--p204tx_Notebook-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://support.hp.com/in-en/product/hp-pavilion-15-notebook-pc-series/7486459/model/7584247/)
 
 #### Most time wasted on:
 
 [![CS:GO](https://img.shields.io/badge/Counter_Strike:_Global_Offensive-3000+_Hours-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
 
+<br />
+
 # 💥 Favorite projects 💥
 
-[![Ultimate Frontend Seed](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=ultimate-frontend-seed&theme=onedark)](https://github.com/dusk196/ultimate-frontend-seed/)
-[![How Many Days](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=how-many-days&theme=onedark)](https://github.com/dusk196/how-many-days/)
-[![Snake](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=snake&theme=onedark)](https://github.com/dusk196/snake/)
-[![node-auth-jwt](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=node-auth-jwt&theme=onedark)](https://github.com/dusk196/node-auth-jwt/)
-[![Storage Space Tracker](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=storage-space-tracker&theme=onedark)](https://github.com/dusk196/storage-space-tracker/)
+[![Ultimate Frontend Seed](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=ultimate-frontend-seed&theme=merko)](https://github.com/dusk196/ultimate-frontend-seed/)
+[![How Many Days](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=how-many-days&theme=merko)](https://github.com/dusk196/how-many-days/)
+[![Snake](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=snake&theme=merko)](https://github.com/dusk196/snake/)
+[![node-auth-jwt](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=node-auth-jwt&theme=merko)](https://github.com/dusk196/node-auth-jwt/)
+[![Storage Space Tracker](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=storage-space-tracker&theme=merko)](https://github.com/dusk196/storage-space-tracker/)
