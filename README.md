@@ -174,6 +174,7 @@
 
 # 💥 Favorite projects 💥
 
+[![Github Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=github-repo-stats&theme=merko)](https://github.com/dusk196/github-repo-stats/)
 [![Ultimate Frontend Seed](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=ultimate-frontend-seed&theme=merko)](https://github.com/dusk196/ultimate-frontend-seed/)
 [![How Many Days](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=how-many-days&theme=merko)](https://github.com/dusk196/how-many-days/)
 [![Snake](https://github-readme-stats.vercel.app/api/pin/?username=dusk196&repo=snake&theme=merko)](https://github.com/dusk196/snake/)
