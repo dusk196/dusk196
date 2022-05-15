@@ -159,7 +159,7 @@
 [![LinkedIn](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsroy94)
 
 #### Personal Rig: 
-[![AMD Ryzen 5 3600X](https://img.shields.io/badge/AMD-Ryzen_5_3600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/products/cpu/amd-ryzen-5-3600x/)
+[![AMD Ryzen 5 5600X](https://img.shields.io/badge/AMD-Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/products/cpu/amd-ryzen-5-5600x/)
 [![NVIDIA RTX 2070 Super](https://img.shields.io/badge/NVIDIA-RTX_2070_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-in/geforce/graphics-cards/rtx-2070-super/)
 [![ASUS PRIME X570 P-CSM](https://img.shields.io/badge/Asus-PRIME_X570_P--CSM-000000?style=for-the-badge&logo=asus&logoColor=white)](https://www.asus.com/Motherboards-Components/Motherboards/All-series/PRIME-X570-P-CSM/)
 
@@ -168,7 +168,7 @@
 
 #### Most time wasted on:
 
-[![CS:GO](https://img.shields.io/badge/Counter_Strike:_Global_Offensive-3000+_Hours-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
+[![CS:GO](https://img.shields.io/badge/Counter_Strike:_Global_Offensive-4000+_Hours-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/)
 
 <br />
 
