@@ -101,7 +101,7 @@
 ### OS 🖥
 
 [![Arch Linux](https://img.shields.io/badge/PC-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![Windows 10](https://img.shields.io/badge/PC_&_Laptop-Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows/)
+[![Windows 11](https://img.shields.io/badge/PC_&_Laptop-Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows/)
 [![Arch Linux](https://img.shields.io/badge/Mobile-lineage_os-167C80?style=for-the-badge&logo=lineageos&logoColor=white)](https://archlinux.org/)
 
 ### Currently Learning 🔥
